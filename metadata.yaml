@@ -1,0 +1,34 @@
+_repo: Our-Little-Hungarian-Cousin_43371
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goss, John
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '7136'
+    url: http://www.gutenberg.org/2009/agents/7136
+covers:
+- cover_type: archival
+  image_path: 43371-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nixon-Roulet, Mary F.
+    deathdate: 1930
+    gutenberg_agent_id: '3391'
+    url: http://www.gutenberg.org/2009/agents/3391
+description: ''
+gutenberg_issued: '2013-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43371'
+  lccn: 09028398
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcc 'PZ'
+- !lcsh 'Children -- Hungary -- Juvenile literature'
+title: Our Little Hungarian Cousin
+url: http://www.gutenberg.org/ebooks/43371
